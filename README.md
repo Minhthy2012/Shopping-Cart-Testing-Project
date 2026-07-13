@@ -22,7 +22,7 @@ This repository demonstrates both **Manual Testing** and **Basic Selenium Automa
 - Visual Studio
 - Basic Automation
 
-📄 **Location:** `Automation_Test/`
+📄 **Location:** `Automation_Testing/`
 
 ## Test Design Techniques
 
