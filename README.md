@@ -1,16 +1,12 @@
-## Test Documentation
+Project Structure
 
-Google Sheets:
+📂 Documents
+ └── Shopping_Cart_Testing_Portfolio.xlsx
+      ├── Requirements
+      ├── Test Scenarios
+      ├── Test Cases
+      ├── RTM
+      └── Test Execution
 
-https://docs.google.com/spreadsheets/d/1r_pp15zqD3rYVcm3afZNDEMsvPKIwNbxF2c5yZlcSZU/edit?gid=2147036511#gid=2147036511
-
-Test Cases:
-
-Bug Reports:
-
-
-API Testing Collection
-
-Tools:
-- Postman
-- Selenium
+📂 Screenshots
+ └── Jira bug reports
