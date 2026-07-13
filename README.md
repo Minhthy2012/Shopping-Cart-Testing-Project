@@ -20,9 +20,9 @@ This repository demonstrates both **Manual Testing** and **Basic Selenium Automa
 - Selenium WebDriver
 - C#
 - Visual Studio
-- Basic UI Automation
+- Basic Automation
 
-📄 **Location:** `Selenium/`
+📄 **Location:** `Test_GioHang/`
 
 ## Test Design Techniques
 
