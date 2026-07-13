@@ -22,7 +22,7 @@ This repository demonstrates both **Manual Testing** and **Basic Selenium Automa
 - Visual Studio
 - Basic Automation
 
-📄 **Location:** `Test_GioHang/`
+📄 **Location:** `Automation_Test/`
 
 ## Test Design Techniques
 
