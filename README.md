@@ -12,6 +12,7 @@ This repository demonstrates both **Manual Testing** and **Basic Selenium Automa
 - Requirement Traceability Matrix (RTM)
 - Test Execution Report
 - Jira Bug Reports
+  -- Screenshots Bug
 
 📄 **Location:** `Manual_Testing/Shopping_Cart_Manual_Testing_Portfolio.xlsx`
 
