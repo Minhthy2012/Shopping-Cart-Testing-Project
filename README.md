@@ -13,6 +13,8 @@ This repository demonstrates both **Manual Testing** and **Basic Selenium Automa
 - Test Execution Report
 
 📄 **Location:** `Manual_Testing/Shopping_Cart_Manual_Testing_Portfolio.xlsx`
+## Database Verification
+- Executed SQL queries to validate Shopping Cart and Order data stored in SQL Server.
 ## Jira Bug Report
 - BUG_DETAIL(1).png
 - BUG_DETAIL(2).png
